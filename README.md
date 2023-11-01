@@ -1,0 +1,9 @@
+AI BASED STOCK PRICE PREDICTION USING BERT MODEL
+
+Stock price prediction has long been a challenging and essential task in the financial world. This research introduces an innovative approach to stock price forecasting by leveraging state-of-the-art Natural Language Processing (NLP) techniques, specifically the BERT (Bidirectional Encoder Representations from Transformers) model. BERT, initially designed for understanding natural language, is adapted to capture the complex and dynamic patterns in financial news and sentiment data for improved prediction accuracy.
+
+The study incorporates a comprehensive dataset comprising historical stock prices, financial news articles, and sentiment analysis scores. The BERT model is fine-tuned to understand the contextual nuances of financial news and to extract actionable insights that impact stock prices. This approach allows for a holistic understanding of market sentiment, which, when combined with historical price data, enhances the prediction capabilities.
+
+Python programming is employed for data preprocessing, BERT model fine-tuning, and the development of a prediction system. The performance of the model is rigorously evaluated using metrics like Mean Absolute Error (MAE) and Root Mean Square Error (RMSE) to ensure the reliability of the predictions.
+
+The findings from this research demonstrate the potential of the BERT model in improving stock price predictions by effectively capturing and analyzing financial sentiment in textual data. This innovative approach offers valuable insights to investors, traders, and financial institutions, empowering them to make more informed decisions in the volatile stock market. The fusion of AI and financial data analysis highlights the potential to enhance predictive capabilities in stock price forecasting, ultimately aiding in more successful investment strategies.
